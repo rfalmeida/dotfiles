@@ -11,6 +11,6 @@ PS1='\w\$ '
 
 export HOMEBREW_NO_AUTO_UPDATE=1
 alias c='clear'
-alias c='python'
+alias p='python'
 alias config='/usr/bin/git --git-dir=$HOME/.myconf/ --work-tree=$HOME'
 
